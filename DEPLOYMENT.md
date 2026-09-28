@@ -12,7 +12,7 @@
 |-----|----------|
 | Họ và tên | Nguyễn Thành Duy |
 | Mã học viên | 2A202602804 |
-| Repo | https://github.com/duynguy3n2916/K4-L3A-NguyenThanhDuy-2A202602804-Cloud-Service-And-Deployment |
+| Repo | https://github.com/duynguy3n2916/K4-L3A-DAY12-NguyenThanhDuy-2A202602804-Cloud-Service-And-Deployment |
 
 ## Service
 
