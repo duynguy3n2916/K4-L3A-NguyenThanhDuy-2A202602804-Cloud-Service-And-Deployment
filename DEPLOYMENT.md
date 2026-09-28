@@ -90,7 +90,7 @@ HTTP/1.1 200 OK
 {"answer":"Câu hỏi hay. Deploy là gì thường được giải quyết bằng cách chuẩn hóa môi trường chạy: cùng một image chạy giống nhau ở laptop và trên cloud. (Mình đang nhớ 4 lượt trao đổi trước đó.)","user_id":"sv-test","history_length":4,"cost_usd":4.08e-05,"tokens":{"in":92,"out":45}}
 
 # 5. Rate limit (15 requests)
-200 200 200 200 200 200 200 200 200 429 429 429 429 429 429
+200 200 200 200 200 200 200 200 200 200 429 429 429 429 429
 ```
 
 ## Ảnh Chụp Màn Hình
